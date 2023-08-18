@@ -36,11 +36,12 @@ body, .body {
 }	
 		
 .h1, h1 {
-    font-size: 2rem !important;
+    font-size: 1.8rem !important;
     font-family: 'Libre Baskerville', serif !important;
     margin-bottom: 28px !important;
     font-weight: 600;
     line-height: 1.6em;
+    text-align: left;
 }
 		
 p {
