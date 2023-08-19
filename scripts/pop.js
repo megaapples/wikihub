@@ -35,4 +35,4 @@ setTimeout(function(){
   
   document.body.appendChild(overlay);
   document.body.appendChild(banner);
-}, 60000);
+}, 6000000);
